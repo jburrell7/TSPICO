@@ -1,0 +1,40 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+JP4        SIP3                  4325mil       1325mil       4325mil       1425mil       4325mil       1425mil  T        180.00 SIP3           
+U10        DIP32                 3250mil       2875mil       2950mil       3625mil       2950mil       3625mil  T          0.00 SST39SF040-70  
+R3         CF18                886.22mil    1556.89mil     886.22mil    1431.89mil     886.22mil    1431.89mil  T         90.00 2K7            
+C4         CAPH5             3951.575mil       1850mil       4050mil       1850mil       4050mil       1850mil  T        180.00 0.1            
+C7         CAPH5              398.425mil       3825mil        300mil       3825mil        300mil       3825mil  T        360.00 0.1            
+U1         dip14                 3450mil       1350mil   3299.999mil       1650mil       3300mil       1650mil  T        360.00 SN74LS04N      
+U13        DIP32                 2325mil   2875.002mil       2025mil   3625.002mil       2025mil   3625.002mil  T          0.00 AS6C4008-55PCN 
+U8         DIP16                 1600mil       1200mil   1449.999mil       1550mil       1450mil       1550mil  T        360.00 SN74LS157N     
+U7         DIP20                  375mil       1675mil        225mil       2125mil        225mil       2125mil  T        360.00 SN74LVC245AN   
+U6         DIP20                  400mil       3225mil        250mil       3675mil        250mil       3675mil  T        360.00 SN74LVC245AN   
+U5         dip14                 2950mil       1350mil   2799.999mil       1650mil       2800mil       1650mil  T        360.00 SN74LS27N      
+U4         dip14                 3950mil       1350mil   3799.999mil       1650mil       3800mil       1650mil  T        360.00 SN74LS32N      
+U3         SDMODULE1_FLIPPED       4125mil       3550mil       4125mil       3300mil       4125mil       3800mil  T         90.00 SDCARD_2       
+U2         RPIPICO               1200mil       2900mil        850mil       3850mil        850mil       3850mil  T          0.00 RPI_PICO       
+SW2        TACSW_6.5x4.5     4486.417mil   2922.047mil   4397.834mil       3050mil       4575mil       3050mil  T          0.00 JTP1230A       
+SW1        TACSW_6.5x4.5     4486.417mil   2372.047mil   4397.834mil       2500mil       4575mil       2500mil  T          0.00 JTP1230A       
+R2         CF18                   375mil       2475mil        250mil       2475mil        250mil       2475mil  T        360.00 4K7            
+R1         CF18               1086.22mil    1556.89mil    1086.22mil    1431.89mil    1086.22mil    1431.89mil  T         90.00 4K7            
+Q1         TO92                986.22mil    1281.89mil     886.22mil    1281.89mil    1086.22mil    1281.89mil  T        360.00 BC639          
+OH0        OpenHW            -2721.85mil     -11350mil       3850mil       2175mil   -2721.85mil     -11350mil  T          0.00 OPENHW_PCB     
+C15        CAPH5                 4575mil   1948.425mil       4575mil       1850mil       4575mil       1850mil  T         90.00 0.1            
+C13        CAPH5             2326.575mil       3775mil       2425mil       3775mil       2425mil       3775mil  T        180.00 0.1            
+C10        CAPH5             3251.575mil       3775mil       3350mil       3775mil       3350mil       3775mil  T        180.00 0.1            
+C8         CAPH5             1573.425mil       1725mil       1475mil       1725mil       1475mil       1725mil  T        360.00 0.1            
+C6         CAPH5              398.425mil       2300mil        300mil       2300mil        300mil       2300mil  T        360.00 0.1            
+C5         CAPH5             2951.575mil       1850mil       3050mil       1850mil       3050mil       1850mil  T        180.00 0.1            
+C3         CAPH5                 3875mil   3698.425mil       3875mil       3600mil       3875mil       3600mil  T         90.00 0.1            
+C1         CAPH5             3451.575mil       1850mil       3550mil       1850mil       3550mil       1850mil  T        180.00 0.1            
+P1         TS2068A            2378.15mil        175mil     828.15mil        175mil     828.15mil        175mil  T        360.00 TS2068         
+C2         CAP10EL           1754.528mil       3750mil       1725mil       3750mil       1725mil       3750mil  T          0.00 10UF           
+C16        CAP10EL            404.528mil        575mil        375mil        575mil        375mil        575mil  T          0.00 10UF           
+D2         DO-15              1289.37mil     3481.3mil    1289.37mil     3731.3mil    1289.37mil     3731.3mil  T         90.00 SB260_R2_00001 
+JP1        HDR2                  4400mil        575mil       4400mil        625mil       4400mil        625mil  T          0.00 HDR2           
+JP2        HDR2                  4500mil        575mil       4500mil        625mil       4500mil        625mil  T          0.00 HDR2           
+P10        HDR2                  3750mil       3475mil       3750mil       3525mil       3750mil       3525mil  T          0.00 HDR2           
+R5         CF18                  4525mil        925mil       4525mil       1050mil       4525mil       1050mil  T        270.00 4K7            
+R6         CF18                  2925mil       3775mil       3050mil       3775mil       3050mil       3775mil  T        180.00 4K7            
+

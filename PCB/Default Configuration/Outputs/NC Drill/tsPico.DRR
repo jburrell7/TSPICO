@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: tsPico.CSPCBDoc   8/5/2023  3:08:15 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : tsPico.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        20mil (0.508mm)          Round          122              35.34 Inch (897.56 mm)
+T2        25mil (0.635mm)          Round          196              38.29 Inch (972.64 mm)
+T3        28mil (0.7112mm)         Round          5                5.48 Inch (139.22 mm)
+T4        38mil (0.9652mm)         Round          3                0.20 Inch (5.08 mm)
+T5        39.37mil (1mm)           Round          8                1.51 Inch (38.47 mm)
+T6        40mil (1.016mm)          Round          54               16.54 Inch (420.02 mm)
+---------------------------------------------------------------------------
+Totals                                            388              97.36 Inch (2472.99 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
