@@ -2,3 +2,8 @@ Changes in this version
 1. Add pull-up to the /BE_IN line (TS connector B-30)
 2. Add reset pushbutton for the Pico
 3. Remaps some Pico pins to enable the SRAM.
+
+The tsPicoV2Outputs.zip file contains the PCB fabrication files. This file contains the Gerbers, BOM, 
+assembly drawings and other files.
+The tsPicoV2AltiumFiles.zip file contains the Altium schematic and PCB databases.
+
