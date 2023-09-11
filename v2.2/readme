@@ -1,1 +1,9 @@
+Release candidate #1 11Sep2023
+The Fab.zip file contains the Gerber and BOM as well as some other files. These can be used for PCB Fab
+The Altium.zip file contains the Altium Circuit Studio PCB data base files
+
+Changes:
+1. The board has been made wider to bring the right edge close to the right edge of the TS2068 case
+2. A 2.2 second (approx) reset circuit has been added using a 555 timer. This was added after testing demonstrated that
+the board would not correctly respond when powered up from the TS.
 
